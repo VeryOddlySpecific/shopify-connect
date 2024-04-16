@@ -1,0 +1,38 @@
+{
+    "client_id": {
+        "id": "vos_sc_client_id",
+        "title": "API Key",
+        "page": "vos-sc-admin",
+        "group": "vos_sc_settings",
+        "section": "vos_sc_settings_credentials",
+        "input_type": "text",
+        "element": "input"
+    },
+    "client_secret": {
+        "id": "vos_sc_client_secret",
+        "title": "API Secret",
+        "page": "vos-sc-admin",
+        "group": "vos_sc_settings",
+        "section": "vos_sc_settings_credentials",
+        "input_type": "text",
+        "element": "input"
+    },
+    "access_token": {
+        "id": "vos_sc_access_token",
+        "title": "Storefront API Access Token",
+        "page": "vos-sc-admin",
+        "group": "vos_sc_settings",
+        "section": "vos_sc_settings_credentials",
+        "input_type": "password",
+        "element": "input"
+    },
+    "shopify_url": {
+        "id": "vos_sc_shopify_url",
+        "title": "Shopify Store URL",
+        "page": "vos-sc-admin",
+        "group": "vos_sc_settings",
+        "section": "vos_sc_settings_credentials",
+        "input_type": "text",
+        "element": "input"
+    }
+}
